@@ -1,5 +1,7 @@
 # GriefPrevention - The self-service anti-griefing Bukkit plugin for Minecraft servers since 2011.
 
+Modified by SilicMC.
+
 Stop responding to grief and prevent it instead. GriefPrevention stops grief 
 before it starts automatically without any effort from administrators, 
 and with very little (self service) effort from players.
